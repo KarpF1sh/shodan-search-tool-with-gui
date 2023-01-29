@@ -14,7 +14,9 @@ Do a lookup on some specific host
 On Windows open the `run.bat` file, or:  
 
 Install the dependencies: `pip install -r requirements.txt`  
-And run `python shodanv2.py` from the command line
+And run `python shodanv2.py` from the command line  
+
+Or simply run the prebuilt executable.
 
 ### Building
 You can also build the python application to a single executable file.
